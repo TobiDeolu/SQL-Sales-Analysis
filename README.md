@@ -8,3 +8,10 @@ This analysis project was done to understand the sales trend in a manufacturing 
 - Data Cleaning: Extensive data cleaning process to include Checking and removing duplicates, dealing with null values, standardizing the data type, etc.
 - Exploratory Data Analysis (EDA): Perform exploratory data analysis to understand the datasets
 - Business Analysis: Analyse the dataset to solve various business problems.
+
+## Project Structure:
+
+### 1. Database Creation
+- "Retail_Sales" Database was created for this project analysis
+- "Sales" table was created in the "Retail_sales" db
+- The datasets received was imported into the sales table
